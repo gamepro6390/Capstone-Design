@@ -19,6 +19,7 @@ Subject: 전이 학습을 이용한 딥러닝(Deep Learning) 칼로리 저울
 학습 이미지 데이터 출처: https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=79
 
 음식 종류: 20가지
+
 갈비구이 
 갈치구이 
 계란찜 
